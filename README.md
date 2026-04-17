@@ -1,5 +1,5 @@
 # Kaden-s-Individual-Project
-For a JEI project. The code should be directly run in a Colab environment ("Open in Colab").
+For a anime user analysis project. The code should be directly run in a Colab environment ("Open in Colab").
 The Colab generates the results for my project, which uses machine learning to test a hypothesis
 that demographic featurs are not important to decide anime user archetypes.
 
