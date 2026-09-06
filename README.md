@@ -49,18 +49,7 @@ Evaluated via **Balanced Accuracy (BA)** and **Macro F1 Score**:
 | **Demographic Redundancy** | Removing `age` and `gender` caused zero operational drop in performance. TOST confirmed predictive equivalence between behavioral-only models and demographic-augmented models. |
 | **Primary Predictor** | Permutation importance identified **`user_dropped`** (drop rate) as the single most influential predictor of a user's rating archetype. |
 
----
-
-## 📁 Repository Structure
-
-```text
-├── anime_behavioral_clustering.ipynb   # End-to-end analysis: data cleaning, clustering, & modeling
-├── figure_1_histograms.png             # Distribution plots of Vu and Du metrics
-├── workflow_pipeline.png               # Visual diagram of the leakage-free pipeline architecture
-└── README.md                           # Project documentation
 ```
-
----
 
 ## 📦 Environment & Dependencies
 
